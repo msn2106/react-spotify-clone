@@ -25,3 +25,19 @@ TODO:
 1. Host the site
 
 ### Results
+1. Login Page
+
+![image](https://github.com/msn2106/react-spotify-clone/assets/56197385/f34f6560-4cc4-41a0-8531-4c2b31043223)
+
+
+2. Authorization Permission Page
+
+
+![image](https://github.com/msn2106/react-spotify-clone/assets/56197385/b864cddb-eabb-49a6-a132-ffc796ca818a)
+
+
+3. Main Home Page
+
+
+![image](https://github.com/msn2106/react-spotify-clone/assets/56197385/704c17bc-f9d6-46c0-a3a7-1e235eced0be)
+
